@@ -1,0 +1,10 @@
+console.log("My Name: Pratik More");
+console.log("My Full Name: Pratik Vitthal More");
+console.log("I love only JS");
+console.log("First Name: Pratik");
+console.log("Last Name: More");
+console.log("Age: 21");
+console.log("Address: Islampur");
+console.log("Pin Code: 415401");
+console.log("Gender: Male");
+console.log("Married Status: false");
